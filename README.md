@@ -124,3 +124,6 @@ npm run export
 ## 许可证
 
 MIT License
+
+## 鸣谢
+感谢GarminSync的作者，StravaSync学习了很多
